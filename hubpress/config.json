@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "gnbryan",
-    "repositoryName": "gnbryan.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"gnbryan","repositoryName":"gnbryan.github.io","branch":"master"},"site":{"title":"Blog de Bryan García","description":"Mi nombre es <strong>Bryan García Navarro,</strong> soy Desarrollador de Software y Graduado en Ingeniería Informática por la Universidad de La Laguna (Tenerife)<strong>.</strong>\n\nEn este espacio se expondrán artículos relacionados mayoritamente con la tecnología, la informática e internet, si bien tendrán cabida también otro tipo de publicaciones orientadas al humor, curiosidades relacionadas con el mundo de la informática o de ocio en general. Todos los artículos aquí expuestos, de autoría propia, estarán publicados bajo una licencia <em><a href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.es_ES\" target=\"_blank\">Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a></em>.\n\nPuedes seguir mi actividad por redes sociales como <a href=\"https://twitter.com/bryangn\" target=\"_blank\">twitter</a>, algunos de mis trabajos ubicados en <a href=\"https://github.com/gnbryan\" target=\"_blank\">GitHub</a>, mi música favorita en <a href=\"https://open.spotify.com/user/11136077310\" target=\"_blank\">Spotify</a>, mi currículum digital en <a href=\"https://www.linkedin.com/in/bryangarcianavarro\" target=\"_blank\">LinkedIn</a> o seguir mis publicaciones a través de cualquier lector RSS suscribiéndote a dicho <a title=\"Feed\" href=\"http://gnbryan.blog.com/feed/\" target=\"_blank\">feed</a>.\n\n¡Bienvenidos!","url":"https://gnbryan.github.io"},"socialnetwork":{"email":"bryangn@gmail.com","twitter":"https://twitter.com/bryangn","github":"https://github.com/gnbryan/"},"theme":{"name":"Casper","url":"//gnbryan.github.io/themes/Casper"}}
